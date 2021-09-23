@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yuzhu Fu.
 - 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently learning Computer Science at University of Maryland.
+- 🌱 I’m currently learning Computer Science at University of Maryland, College Park.
 - 📫 How to reach me: LinkedIn: linkedin.com/in/yuzhu-fu-66a541208; 
                       Email: yzfu0426@terpmail.umd.edu
 
